@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <itemlistcontainer greeting={'hola'}/>
+      <itemlistcontainer greeting={'Bienvenidos'}/>
     </div>
   );
 }
